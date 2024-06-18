@@ -8,9 +8,9 @@ To upload your own photos and content follow the steps below;
 
 ----------------------------------------- Setup -----------------------------------------
  
-1. Download the Terasic - DE1 Control Panel provided in the "DE-1 CD-ROM" I added to this directory
---> This CD-ROM is 100% owned and distibuted by the board company, I am just putting it here for ease of use
---> Open the control panel: DE-1 CD-ROM\DE1_control_panel\DE1_ControlPanel.exe
+1. Download the Terasic - DE1 Control Panel provided in the "DE-1 CD-ROM" 
+--> This CD-ROM is 100% owned and distibuted by the board company, I am just putting files here for ease of use
+--> Open the control panel: DE1_control_panel\DE1_ControlPanel.exe
 
 2. Turn on the dev board and press the "CONNECT" button
 
@@ -53,5 +53,5 @@ To upload your own photos and content follow the steps below;
   so that would also have to be updated to pick between different photos
 
 ***The Verilog code is attached, the only thing you have to do prior to compiling is to upload the default pin assignments***
--Those can be found at: DE-1 CD-ROM\DE1_lab_exercises\DE1_pin_assignments.csv
+-Those can be found at: DE1_pin_assignments.csv
 
