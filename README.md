@@ -55,3 +55,7 @@ To upload your own photos and content follow the steps below;
 ***The Verilog code is attached, the only thing you have to do prior to compiling is to upload the default pin assignments***
 -Those can be found at: DE1_pin_assignments.csv
 
+-There is also an attached folder called "FailedSDRAM" from where I intially tried to do this project with the onboard SDRAM rather than FLASH
+-If you would like to use the SDRAM instead, be my guest and try to figure out the flaws with the files in there. It's not too far off from working...I think.
+
+
