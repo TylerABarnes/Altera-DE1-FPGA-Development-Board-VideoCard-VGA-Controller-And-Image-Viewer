@@ -1,0 +1,11 @@
+[System]
+Quartus Version(x32 Registry)=13
+Quartus Version(x64 Registry)=13
+Quartus Version(TERASIC_DOWNLOAD.DLL)=13
+OS=Win8
+QUARTUS_ROOTDIR=C:\altera\13.0sp1\quartus
+SOPC_KIT_NIOS2=C:\altera\13.0sp1\nios2eds
+QuartusBin64=C:\altera\13.0sp1\quartus\bin64
+QuartusBin32=
+QuartusBin=C:\altera\13.0sp1\quartus\bin64
+QSYS_ROOTDIR=
