@@ -24,7 +24,7 @@ To upload your own photos and content follow the steps below;
 
 6. In paint, click "Resize" in the top left
 
-7. Select "Pixels", set the Horizontal Pixels to 640 and the Veritcal Pixels to 480
+7. Select "Pixels", set the Horizontal Pixels to 640 and the Veritcal Pixels to 480 (may have to decheck "keep aspect ratio")
 
 8. Press okay and save resulting image as a PNG on your desktop
 
